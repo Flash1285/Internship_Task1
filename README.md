@@ -40,10 +40,10 @@ Use your local IP (e.g., `192.168.171.128`) to determine the subnet range (e.g.,
 
 Execute a fast, stealthy scan across your local subnet to discover active hosts and open ports.
 
-```bash
+
 # Replace the IP range with your actual subnet
 nmap -sS 192.168.171.128/24
-
+**\`\`\`**
 ### 4. Note IP Addresses and Open Ports
 
 Record the active **IP addresses** and associated **open ports** identified during the Nmap scan.
