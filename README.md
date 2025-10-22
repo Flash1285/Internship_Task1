@@ -1,6 +1,8 @@
 # Internship_Task1
 Learn to discover open ports on devices in your local network to understand network exposure.
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # 🌐 Network Discovery and Security Analysis Workshop
 
 A step-by-step guide for performing a basic network scan, analyzing the results, and researching potential security vulnerabilities using **Nmap** and **Wireshark**.
